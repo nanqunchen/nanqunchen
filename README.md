@@ -18,4 +18,7 @@ Here are some ideas to get you started:
 I am a product designer, also a free-time game developer and a blogger.  
 Big fan on Bicycle, Typegraphy, Video Games and Game-on-paper.  
 Now I'm working on the v2 of a mobile game named [MINIPLANET](https://apps.apple.com/cn/app/%E5%B0%8F%E7%8E%8B%E5%AD%90%E6%B2%A1%E7%94%B5%E4%BA%86/id1517103852).  
-Nice to see you here, and please feel free to contact me.
+Nice to see you here, and please feel free to contact me.  
+
+One more thing.  
+👈 The avatar is drawn by my girl. Just contact me if you want one. lol.
