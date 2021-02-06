@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🐻‍❄️ I am a product designer, also a free-time game developer and a blogger.  
-🧸 Big fan on Bicycle, Typegraphy, Video Games and Game-on-paper.  
+I am a product designer, also a free-time game developer and a blogger.  
+Big fan on Bicycle, Typegraphy, Video Games and Game-on-paper.  
 Now I'm working on the v2 of a mobile game named MINIPLANET.  
 Nice to see you here, and please feel free to contact me.  
 
