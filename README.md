@@ -21,4 +21,4 @@ Now I'm working on the v2 of a mobile game named [MINIPLANET](https://apps.apple
 Nice to see you here, and please feel free to contact me.  
 
 One more thing.  
-👈 The avatar is drawn by my girl. Just contact me if you want one. lol.
+👈 The avatar is drawn by my girl. Just contact me if you also want one. Lol.
