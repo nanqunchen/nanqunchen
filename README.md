@@ -17,7 +17,5 @@ Here are some ideas to get you started:
 
 I am a product designer, also a free-time game developer and a blogger.
 Big fan on Bicycle, Typegraphy, Video Games and Game-on-paper.
-Now I am working on a mobile game called MINIPLANET at part-time.
-Nice to see you here and please feel free to contact me.
-
-![Twitter URL](https://img.shields.io/twitter/url?label=Chen%2C%20Nanun%27s%20%20Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fnanqunchen)
+Now I'm working on the v2 of a mobile game named MINIPLANET.
+Nice to see you here.
