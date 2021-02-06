@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 I am a product designer, also a free-time game developer and a blogger.
-Big fan on Bicycle, Typegraphy, Video Games and Game-on-paper.
-Now I am working on a mobile game called MINIPLANET at part-time.
+- Big fan on Bicycle, Typegraphy, Video Games and Game-on-paper.
+- Now I am working on a mobile game called MINIPLANET at part-time.
 Nice to see you here and please feel free to contact me.
