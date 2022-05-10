@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 I am a product designer, a free-time game developer.  
 Big fan on Typegraphy, Video Games and Graphic noise.  
-Now I'm currentky learning computer graphics and generative art.
+I'm currently learning computer graphics and generative art.
