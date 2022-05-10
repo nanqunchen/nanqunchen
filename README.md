@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 I am a product designer, a free-time game developer.  
 Big fan on Typegraphy, Video Games and Graphic noise.  
-Now I'm currentky learning computer graphics, and working on the v2 of a game named [MINIPLANET](https://apps.apple.com/cn/app/%E5%B0%8F%E7%8E%8B%E5%AD%90%E6%B2%A1%E7%94%B5%E4%BA%86/id1517103852).   
+Now I'm currentky learning computer graphics and generative art.
